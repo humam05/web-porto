@@ -23,7 +23,7 @@ export default function HomePage() {
 
   return (
     <>
-      <PageIndicator TOTAL_SECTIONS={SECTIONS} />
+      <PageIndicator />
       <Hero />      
       <AboutSection />
       <SkillsSection />
